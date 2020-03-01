@@ -1,13 +1,13 @@
 body {
   font-size: 16px;
   color: #fff;
-  background-color: #61122f;
+  background-color: #ee1c69;
   font-family: 'Oxygen', sans-serif;
 }
 
 /** HEADER **/
 #header-nav {
-  background-color: #f6b319;
+  background-color: #f8b824;
   border-radius: 0;
   border: 0;
 }
@@ -242,7 +242,7 @@ h3.menu-item-title {
 @media (min-width: 992px) and (max-width: 1199px) {
   /* Header */
   #logo-img {
-    background: url('../images/restaurant-logo_medium.png') no-repeat;
+    background: url("https://img.icons8.com/clouds/100/000000/dinner-hotel.png") no-repeat;
     width: 100px;
     height: 100px;
     margin: 5px 5px 5px 0;
